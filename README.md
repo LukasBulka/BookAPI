@@ -15,11 +15,11 @@ This application managing inmemory stored books
    
 ## Functionalities
 CRUD operations/Available endpoints:
-    * .../books (GET) - *list all books*
-    * .../books (POST) - *add a book using given data*
-    * .../books/{id} (GET) - *show details of the book with given ID*
-    * .../books (PUT) - *update the book using given data*
-    * .../books/{id} (DELETE) - *delete the book with given ID*
+* .../books (GET) - *list all books*
+* .../books (POST) - *add a book using given data*
+* .../books/{id} (GET) - *show details of the book with given ID*
+* .../books (PUT) - *update the book using given data*
+* .../books/{id} (DELETE) - *delete the book with given ID*
 
 ## Technologies and tools used?
 * Spring
